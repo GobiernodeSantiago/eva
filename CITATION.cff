@@ -16,7 +16,7 @@ version: "3.12.1"
 date-released: "2026-08-28"
 doi: "10.5281/zenodo.22145509"
 license: "Apache-2.0"
-repository-code: "https://github.com/arieIIopez/eva"
+repository-code: "https://github.com/GobiernodeSantiago/eva"
 url: "https://ditdatos.gobiernosantiago.cl/evaluador"
 abstract: >-
   EVA es una herramienta de apoyo a la decisión desarrollada por la División de
