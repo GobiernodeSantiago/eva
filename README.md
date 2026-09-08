@@ -5,7 +5,7 @@
 [![EVA](https://img.shields.io/badge/EVA-3.12.1-informational.svg)](CHANGELOG.md)
 [![Datos](https://img.shields.io/badge/datos-2026.08-informational.svg)](docs/DATOS.md)
 [![Metodología](https://img.shields.io/badge/metodolog%C3%ADa-2.3.0-informational.svg)](docs/VALIDACION.md)
-[![Publicación verificada](https://github.com/arieIIopez/eva/actions/workflows/sync-public-source.yml/badge.svg)](https://github.com/arieIIopez/eva/actions/workflows/sync-public-source.yml)
+[![Publicación verificada](https://github.com/GobiernodeSantiago/eva/actions/workflows/sync-public-source.yml/badge.svg)](https://github.com/GobiernodeSantiago/eva/actions/workflows/sync-public-source.yml)
 
 **EVA** es una herramienta de apoyo a la decisión desarrollada internamente por la **División de Infraestructura y Transportes del Gobierno Regional Metropolitano de Santiago (GORE RM)** para evaluar y priorizar carteras de infraestructura ciclable como componentes de una red y no como proyectos aislados.
 
